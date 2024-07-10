@@ -1,23 +1,15 @@
 {
   "files": {
     "main.css": "/amelieportfolio/static/css/main.49cf7661.css",
-    "main.js": "/amelieportfolio/static/js/main.0f4a55b3.js",
+    "main.js": "/amelieportfolio/static/js/main.5ee14bf2.js",
     "static/js/453.d07d9aa8.chunk.js": "/amelieportfolio/static/js/453.d07d9aa8.chunk.js",
-    "static/media/business_cover.jpeg": "/amelieportfolio/static/media/business_cover.e83e89c7ef2188f26b13.jpeg",
-    "static/media/image-asset.jpeg": "/amelieportfolio/static/media/image-asset.8c5f735ed158bb0cde50.jpeg",
-    "static/media/amelie.jpg": "/amelieportfolio/static/media/amelie.4a898de70dfecac687b9.jpg",
-    "static/media/thumbnail.jpeg": "/amelieportfolio/static/media/thumbnail.f272824fe50e2ec2b030.jpeg",
-    "static/media/1000_F_58782554_iuhH6kivjt3WdoVXkPeRqhLzEvqWQmny.jpg": "/amelieportfolio/static/media/1000_F_58782554_iuhH6kivjt3WdoVXkPeRqhLzEvqWQmny.055cf5ff0b8937cbe490.jpg",
-    "static/media/_Underwater-Nun.jpeg": "/amelieportfolio/static/media/637627ca9eebde45ae5f394c_Underwater-Nun.d0857f2802f5b633e33c.jpeg",
-    "static/media/Stock-Photography-vs-Real-Imagery.jpg": "/amelieportfolio/static/media/Stock-Photography-vs-Real-Imagery.acde3cf94bb7b1f47799.jpg",
-    "static/media/360_F_222106228_NP5f0gXi3JOCgmaTsEyg7RuyKgwDLGuY.jpg": "/amelieportfolio/static/media/360_F_222106228_NP5f0gXi3JOCgmaTsEyg7RuyKgwDLGuY.e24ceb63cd1cc9f79e16.jpg",
     "index.html": "/amelieportfolio/index.html",
     "main.49cf7661.css.map": "/amelieportfolio/static/css/main.49cf7661.css.map",
-    "main.0f4a55b3.js.map": "/amelieportfolio/static/js/main.0f4a55b3.js.map",
+    "main.5ee14bf2.js.map": "/amelieportfolio/static/js/main.5ee14bf2.js.map",
     "453.d07d9aa8.chunk.js.map": "/amelieportfolio/static/js/453.d07d9aa8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49cf7661.css",
-    "static/js/main.0f4a55b3.js"
+    "static/js/main.5ee14bf2.js"
   ]
 }
